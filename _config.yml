@@ -10,7 +10,7 @@ title:       Blog
 email:       ''
 description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'https://dangduytung.github.io/' # The base hostname & protocol for your site
+url:         'https://dangduytung.github.io' # The base hostname & protocol for your site
 twitter:     ''
 github:      ''
 instagram:   ''
