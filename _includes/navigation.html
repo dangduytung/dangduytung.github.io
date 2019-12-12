@@ -1,11 +1,11 @@
 <li class='c-nav__item' role='presentation'>
-  <a class='c-nav__link' href='linux'>Linux notes</a>
+  <a class='c-nav__link' href='{{site.baseurl}}/linux'>Linux notes</a>
 </li>
 <li class='c-nav__item' role='presentation'>
-  <a class='c-nav__link' href='technical'>Technical notes</a>
+  <a class='c-nav__link' href='{{site.baseurl}}/technical'>Technical notes</a>
 </li>
 <li class='c-nav__item' role='presentation'>
-  <a class='c-nav__link' href='technical-blog'>Technical blog</a>
+  <a class='c-nav__link' href='{{site.baseurl}}/technical-blog'>Technical blog</a>
 </li>
 {% for page in site.pages %}
   {% unless page.name == '404.md' %}
