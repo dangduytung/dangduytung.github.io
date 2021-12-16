@@ -8,9 +8,13 @@ tags: [thơ]
 ~~~
 " Cần bao nhiêu nhớ mới đủ để yêu?
 Cần bao nhiêu quên để trở thành xa lạ…?"
-~~~
-----
-~~~
+
 " …Có khi nào em lại rời xa anh
 Nắng sớm mai có mang anh hơi ấm…"
+
+--- Thơ về Hàn Tín ---
+"Xa nhau từ thuở cơ Hàn
+Đến khi gặp lại bên nàng có con
+Tay ta nắm cả Giang Sơn
+Nhưng không có được môi son má Hồng"
 ~~~
