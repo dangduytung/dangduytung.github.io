@@ -1,11 +1,11 @@
 <li class='c-nav__item' role='presentation'>
   <a class='c-nav__link' href='{{site.baseurl}}/linux'>Linux notes</a>
 </li>
-<li class='c-nav__item' role='presentation'>
+<li class='c-nav__item' style="display: none;" role='presentation'>
   <a class='c-nav__link' href='{{site.baseurl}}/bank-interest'>Bank Interest</a>
 </li>
 {% for page in site.pages %}
-  {% unless page.name == '404.md' %}
+  {% unless page.name == '404.md' or page.name == 'style-guide.md' %}
     {% if page.title %}
       <li class='c-nav__item' role='presentation'>
         <a class='c-nav__link' href='{{ page.url | prepend: site.baseurl }}'>{{ page.title }}</a>
